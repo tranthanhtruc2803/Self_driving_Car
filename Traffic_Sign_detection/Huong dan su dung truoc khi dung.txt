@@ -1,0 +1,9 @@
+Trong folder này có 2 file detect đó là main.py và create_video.py.
+Đối với create_video.py, khi chạy dẫn đường dẫn 1 video vào sau khi chạy xong sẽ trả ra 1 video detect tương ứng. Vì vậy nên khi xem kết quả video output sẽ khá mượt.
+Đối với main.py sẽ chạy real time nên sẽ giựt lag và chậm hơn rất nhiều.
+
+Ngoài ra còn có 3 file model gồm 3x3, 23x23, 25x25 đó là tuỳ chỉnh theo kích thước kernel ở mỗi model.
+
+Ngoài ra còn có 2 video trafic-sign-to-test và trafic-sign-to-test2 để test sản phẩm.
+
+Chân thành cảm ơn!
